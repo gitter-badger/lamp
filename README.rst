@@ -1,6 +1,10 @@
 LAMP Stack - Web Stack (MySQL)
 ==============================
 
+.. image:: https://badges.gitter.im/majidfathi69/lamp.svg
+   :alt: Join the chat at https://gitter.im/majidfathi69/lamp
+   :target: https://gitter.im/majidfathi69/lamp?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge
+
 LAMP stack is a popular open source web platform commonly used to run
 dynamic web sites and servers. It includes Linux, Apache, MySQL, and
 PHP/Python/Perl and is considered by many the platform of choice for
